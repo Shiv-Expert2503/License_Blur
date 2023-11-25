@@ -1,0 +1,6 @@
+path: /content/Data
+train: /content/Data/train
+val: /content/Data/valid
+
+names:
+  0: Plate
