@@ -75,16 +75,3 @@ With a consistent, tracked bounding box for each license plate, the final step i
     ```bash
     pip install -r requirements.txt
     ```
-4.  **Run the Application:**
-    -   **On a Video File:**
-        ```bash
-        python Video_Blur.py --input_path path/to/your/video.mp4
-        ```
-    -   **On an Image File:**
-        ```bash
-        python Image_Blur.py --input_path path/to/your/image.jpg
-        ```
-    -   **On a Live Webcam Feed:**
-        ```bash
-        python Web_Cam_Blur.py
-        ```
