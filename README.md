@@ -2,7 +2,7 @@
 
 This project is a high-performance computer vision pipeline designed to automatically detect, track, and anonymize vehicle license plates in real-time. It serves as a practical tool for ensuring privacy compliance and promoting ethical surveillance in various applications, from public street monitoring to private data collection.
 
-![Demo GIF of License Plate Anonymizer](./demo/demo.gif)
+![Demo GIF of License Plate Anonymizer](./Custom_Training/license.gif)
 
 ## Project Overview
 
